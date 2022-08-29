@@ -65,13 +65,15 @@ __Describe your setting, players, activity and goals here__
 More and more people suffer from poor eyesight or retina damage due to using 3C devices heavily daily at a young age. Overexposed to harmful "Blue Light" and High-Energy Visible (HEV) light is the main reason for these eye-damaged related problems. The interactive device I would like to propose here is a tiny accessory that can detect the amount of environmentally harmful light and send a cellphone reminder to users while they are overexposed to blue light or HEV. For example, the accessory and myself are involved in this interaction. I can wear a detector accessory while using a computer; the accessory will automatically detect the amount of blue light and HEV exposure in the environment. If I overexpose myself to harmful light, I will receive a notification from my cellphone that informs me to wear blue light-blocking glasses or turn on the eye protection mode on my device. Another scenario is happening in the living room. The accessory and my family are included in this interaction. More specifically, when watching TV, the accessory can keep us from overusing our eyes and overexposing to harmful light by sending us a cellphone reminder.  
 
 
-__Include pictures of your storyboards here__\\
+__Include pictures of your storyboards here__
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/scenario0.jpg)
 
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
-__Summarize feedback you got here__\\
+__Summarize feedback you got here__
+
+
 1. The harmful light detector might be too heavy to wear. 
 2. People would ignore the reminder. 
 
@@ -79,11 +81,12 @@ __Summarize feedback you got here__\\
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
-__Are there things that seemed better on paper than acted out?__\ 
+__Are there things that seemed better on paper than acted out?__
+
 
 The things that seemed better on paper that acted out were that I could find many drawbacks in my previous paperwork and try to improve it. For instance, I initially used a small iron box as the detector accessory, which was a little bit too heavy to wear. Thus, I considered the weight of the accessory in my paper study.
 
-__Are there new ideas that occur to you or your collaborators that come up from the acting?__\ 
+__Are there new ideas that occur to you or your collaborators that come up from the acting?__
 
 
 The new ideas that occurred to me from the actions are that I can try to make the detector accessory connect to all the 3C devices in the space. Furthermore, I can also put UV light detection into my design since there might be some interference if there are windows in the room. 
