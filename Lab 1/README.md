@@ -56,22 +56,10 @@ F) [Record the interaction](#part-f-record)
 
 ## Project Name: High-Energy Visible (HEV) Light and Ultraviolet detector
 ## Part A. Plan 
-Nowadays, The interactive device I would like to design is a HEV and UV detecor that can act as a 
 
-To stage an interaction with your interactive device, think about:
 
-_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
-
-_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
-
-_Activity:_ What is happening between the actors?
-
-_Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
-
-The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
-
-\*\***Describe your setting, players, activity and goals here.**\*\*
-More and more people suffer from poor eyesight or retina damage due to using 3C devices heavily daily at a young age. Overexposed to harmful "Blue Light" and High-Energy Visible (HEV) light is the main reason for these eye-damaged related problems. The interactive device I would like to propose here is a tiny accessory that can detect the amount of environment blue light and send a cellphone reminder to users while they are overexposed to blue light or HEV. For example, I can wear a detector accessory while using a computer or watching TV indoors; the accessory will automatically detect the amount of blue light exposure in the environment.
+\*\***Describe your setting, players, activity and goals here.**\*\*\
+More and more people suffer from poor eyesight or retina damage due to using 3C devices heavily daily at a young age. Overexposed to harmful "Blue Light" and High-Energy Visible (HEV) light is the main reason for these eye-damaged related problems. The interactive device I would like to propose here is a tiny accessory that can detect the amount of environmentally harmful light and send a cellphone reminder to users while they are overexposed to blue light or HEV. For example, the accessory and myself are involved in this interaction. I can wear a detector accessory while using a computer; the accessory will automatically detect the amount of blue light and HEV exposure in the environment. If I overexpose myself to harmful light, I will receive a notification from my cellphone that informs me to wear blue light-blocking glasses or turn on the eye protection mode on my device. Another scenario is happening in the living room. The accessory and my family are included in this interaction. More specifically, when watching TV, the accessory can keep us from overusing our eyes and overexposing to harmful light by sending us a cellphone reminder.  
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
