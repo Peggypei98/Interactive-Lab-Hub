@@ -53,9 +53,10 @@ E) [Costume the device](#part-e-costume-the-device)
 
 F) [Record the interaction](#part-f-record)
 
-Labs are due on Mondays. Make sure this page is linked to on your main class hub page.
 
+## Project Name: High-Energy Visible (HEV) Light and Ultraviolet detector
 ## Part A. Plan 
+Nowadays, The interactive device I would like to design is a HEV and UV detecor that can act as a 
 
 To stage an interaction with your interactive device, think about:
 
@@ -70,6 +71,7 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
+More and more people suffer from poor eyesight or retina damage due to using 3C devices heavily daily at a young age. Overexposed to harmful "Blue Light" and High-Energy Visible (HEV) light is the main reason for these eye-damaged related problems. The interactive device I would like to propose here is a tiny accessory that can detect the amount of environment blue light and send a cellphone reminder to users while they are overexposed to blue light or HEV. For example, I can wear a detector accessory while using a computer or watching TV indoors; the accessory will automatically detect the amount of blue light exposure in the environment.
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
