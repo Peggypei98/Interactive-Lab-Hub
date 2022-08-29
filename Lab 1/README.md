@@ -63,7 +63,7 @@ More and more people suffer from poor eyesight or retina damage due to using 3C 
 
 
 **Include pictures of your storyboards here**\
-![This is an image]()
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/scenario0.jpg)
 
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
