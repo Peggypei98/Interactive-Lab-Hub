@@ -58,12 +58,11 @@ F) [Record the interaction](#part-f-record)
 ## Part A. Plan 
 
 
-\*\***Describe your setting, players, activity and goals here.**\*\*\
+\*Describe your setting, players, activity and goals here.*\
 More and more people suffer from poor eyesight or retina damage due to using 3C devices heavily daily at a young age. Overexposed to harmful "Blue Light" and High-Energy Visible (HEV) light is the main reason for these eye-damaged related problems. The interactive device I would like to propose here is a tiny accessory that can detect the amount of environmentally harmful light and send a cellphone reminder to users while they are overexposed to blue light or HEV. For example, the accessory and myself are involved in this interaction. I can wear a detector accessory while using a computer; the accessory will automatically detect the amount of blue light and HEV exposure in the environment. If I overexpose myself to harmful light, I will receive a notification from my cellphone that informs me to wear blue light-blocking glasses or turn on the eye protection mode on my device. Another scenario is happening in the living room. The accessory and my family are included in this interaction. More specifically, when watching TV, the accessory can keep us from overusing our eyes and overexposing to harmful light by sending us a cellphone reminder.  
 
-Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
-\*\***Include pictures of your storyboards here**\*\*
+\*Include pictures of your storyboards here*\
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
