@@ -64,7 +64,7 @@ I decided to use the idea of a visual thermometer, which can inform users of out
 
 
 __Include pictures of your storyboards here__
-![This is an image]()
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/scenario1.jpg)
 
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
