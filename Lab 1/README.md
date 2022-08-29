@@ -68,17 +68,22 @@ More and more people suffer from poor eyesight or retina damage due to using 3C 
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
-\*\***Summarize feedback you got here.**\*\*
-
+__Summarize feedback you got here__\
+1. The harmful light detector might be too heavy to wear. 
+2. People would ignore the reminder. 
 
 ## Part B. Act out the Interaction
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
-\*\***Are there things that seemed better on paper than acted out?**\*\*
+__Are there things that seemed better on paper than acted out?__\
 
-\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+The things that seemed better on paper that acted out were that I could find many drawbacks in my previous paperwork and try to improve it. For instance, I initially used a small iron box as the detector accessory, which was a little bit too heavy to wear. Thus, I considered the weight of the accessory in my paper study.
 
+__Are there new ideas that occur to you or your collaborators that come up from the acting?__\
+
+
+The new ideas that occurred to me from the actions are that I can try to make the detector accessory connect to all the 3C devices in the space. Furthermore, I can also put UV light detection into my design since there might be some interference if there are windows in the room. 
 
 ## Part C. Prototype the device
 
