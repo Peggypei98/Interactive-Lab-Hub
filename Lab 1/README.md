@@ -111,12 +111,12 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 __Include your first attempts at recording the set-up video here.__
 
-![This is a video](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/IMG_9902.MOV)
+![Watch the video](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/IMG_9902.MOV)
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
-\*\***Show the follow-up work here.**\*\*
-
+__Show the follow-up work here___
+![Watch the video]()
 
 ## Part E. Costume the device
 
