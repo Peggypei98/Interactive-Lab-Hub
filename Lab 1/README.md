@@ -124,14 +124,20 @@ Only now should you start worrying about what the device should look like. Devel
 
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
-\*\***Include sketches of what your devices might look like here.**\*\*
+__Include sketches of what your devices might look like here.＿＿
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/paper%20prototype.jpg)
 
-\*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+__What concerns or opportunitities are influencing the way you've designed the device to look?__
+
+
+My concern is that the lights in the daytime might not be as visible as during nighttime since the sun is much brighter than a screen. This result might be a little bit inconvenient for users to see the signal at a long distance. Also, sometimes the lights might not be responsive due to a weak WiFi signal or are overloaded with too many devices. Thus, I will change the background color to a darker one or add lights to make my device more visible during the daytime.   
 
 
 ## Part F. Record
 
-\*\***Take a video of your prototyped interaction.**\*\*
+__Take a video of your prototyped interaction.__
+[![Watch the video]](https://youtube.com/shorts/zGPIVeON4Oc?feature=share)
+
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
