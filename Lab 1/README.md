@@ -136,7 +136,7 @@ My concern is that the lights in the daytime might not be as visible as during n
 ## Part F. Record
 
 __Take a video of your prototyped interaction.__
-[![Watch the video]](https://youtube.com/shorts/zGPIVeON4Oc?feature=share)
+[![Watch the video](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/Screen%20Shot%202022-08-29%20at%209.38.49%20PM.png)](https://youtube.com/shorts/zGPIVeON4Oc?feature=share)
 
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
