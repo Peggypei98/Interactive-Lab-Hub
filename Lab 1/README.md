@@ -64,7 +64,7 @@ I decided to use the idea of a visual thermometer, which can inform users of out
 
 
 __Include pictures of your storyboards here__
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/scenario1.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/Scenario1.jpg)
 
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
@@ -72,8 +72,8 @@ Present your ideas to the other people in your breakout room (or in small groups
 __Summarize feedback you got here__
 
 
-1. The harmful light detector might be too heavy to wear. 
-2. People would ignore the reminder. 
+1. How to know the rage of the temperature?
+2. People still have to check the weather on their phone to know more infromation. 
 
 ## Part B. Act out the Interaction
 
@@ -82,12 +82,13 @@ Try physically acting out the interaction you planned. For now, you can just pre
 __Are there things that seemed better on paper than acted out?__
 
 
-The things that seemed better on paper that acted out were that I could find many drawbacks in my previous paperwork and try to improve it. For instance, I initially used a small iron box as the detector accessory, which was a little bit too heavy to wear. Thus, I considered the weight of the accessory in my paper study.
+The things that seemed better on paper that acted out were that I could find many drawbacks in my previous paperwork and try to improve it. For instance, I initially used my cellphone as the indicator, which was a little bit too heavy to keep on windows. Thus, I would put the weight of the device as a consideration in my following study. 
 
 __Are there new ideas that occur to you or your collaborators that come up from the acting?__
 
 
-The new ideas that occurred to me from the actions are that I can try to make the detector accessory connect to all the 3C devices in the space. Furthermore, I can also put UV light detection into my design since there might be some interference if there are windows in the room. 
+The new ideas that occurred to me from the actions are that I can try to make my device connect to all the 3C devices in the space. Furthermore, I can also put other thermo measurment into my design, such as shower water and fridge. 
+
 
 ## Part C. Prototype the device
 
@@ -102,10 +103,15 @@ If you run into technical issues with this tool, you can also use a light switch
 \*\***Give us feedback on Tinkerbelle.**\*\*
 
 
+For me, Tinkerbelle is really cool. Yet, there are some inferences between the corntorlled devices and reacted devices when lots of people using the same wifi in a room. If we can add a pair process to make sure the interaction is paired between selected devices, this problem might be solved. 
+
+
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
-\*\***Include your first attempts at recording the set-up video here.**\*\*
+__Include your first attempts at recording the set-up video here.__
+
+![This is a video](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/IMG_9902.MOV)
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
