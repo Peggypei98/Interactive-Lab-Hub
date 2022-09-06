@@ -130,13 +130,14 @@ __Include sketches of what your devices might look like here.＿＿
 __What concerns or opportunitities are influencing the way you've designed the device to look?__
 
 
-My concern is that lights in the daytime might not be as visible as during nighttime since the sun is much brighter than a screen. This result might be a little bit inconvenient for users to see the signal at a long distance. Also, sometimes the lights might not be responsive due to a weak WiFi signal or are overloaded with too many devices. Thus, I will change the background color to a darker one or add lights to make my device more visible during the daytime.   
+My concern is that the look should be attractive and fashionable since it is designed to be an accessory. Moreover, it is a daily wearing thing, so I need to put more emphasis on the material and weight of the accessory. 
+Last but not least, sometimes the accessory might not be responsive due to a weak WiFi signal or is overloaded with too many devices.    
 
 
 ## Part F. Record
 
 __Take a video of your prototyped interaction.__
-[[!Watch the video](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/IMG_0081.HEIC)](https://youtu.be/TvgOV_MBJhk)
+[[!Watch the video](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/IMG_0081.jpg)](https://youtu.be/TvgOV_MBJhk)
 
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
