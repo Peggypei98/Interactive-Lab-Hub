@@ -124,7 +124,7 @@ Only now should you start worrying about what the device should look like. Devel
 
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
-__Include sketches of what your devices might look like here.＿＿
+__Include sketches of what your devices might look like here.__
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/P1.jpg)
 
 __What concerns or opportunitities are influencing the way you've designed the device to look?__
@@ -137,7 +137,8 @@ Last but not least, sometimes the accessory might not be responsive due to a wea
 ## Part F. Record
 
 __Take a video of your prototyped interaction.__
-[[!Watch the video](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/IMG_0081.jpg)](https://youtu.be/TvgOV_MBJhk)
+[![Watch the video](https://img.youtube.com/vi/TvgOV_MBJhk/maxresdefault.jpg)](https://youtu.be/TvgOV_MBJhk)
+
 
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
