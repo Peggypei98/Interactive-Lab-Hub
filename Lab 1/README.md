@@ -85,12 +85,12 @@ Try physically acting out the interaction you planned. For now, you can just pre
 __Are there things that seemed better on paper than acted out?__
 
 
-The things that seemed better on paper that acted out were that I could find many drawbacks in my previous paperwork and try to improve it. For instance, I initially used my cellphone as the indicator, which was a little bit too heavy to keep on windows. Thus, I would put the weight of the device as a consideration in my following study. 
+The things that seemed better on paper than acted out were that I could find many drawbacks in my previous paperwork and try to improve it. For instance, while acting out the whole process, I discovered that the notification process was not that necessary. If I could make the entire process automatic, users won't be interrupted by the reminders while they are busy doing something.
 
 __Are there new ideas that occur to you or your collaborators that come up from the acting?__
 
 
-The new ideas that occurred to me from the actions are that I can try to make my device connect to all the 3C devices in the space. Furthermore, I can also put other thermo measurment into my design, such as shower water and fridge. 
+The new ideas that occurred to me from the actions are that I can try to make my device connect to all the 3C devices in the space. Furthermore, I can also make the entire process automatic. 
 
 
 ## Part C. Prototype the device
@@ -180,6 +180,60 @@ __Are there new ideas that occur to you or your collaborators that come up from 
 
 
 The new ideas that occurred to me from the actions are that I can try to make my device connect to all the 3C devices in the space. Furthermore, I can also put other thermo measurment into my design, such as shower water and fridge. 
+
+## Part C. Prototype the device
+
+You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
+
+Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/FAR-Lab/tinkerbelle).
+
+We invented this tool for this lab! 
+
+If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
+
+\*\***Give us feedback on Tinkerbelle.**\*\*
+
+
+For me, Tinkerbelle is really cool. Yet, there are some inferences between the corntorlled devices and reacted devices when lots of people using the same wifi in a room. If we can add a pair process to make sure the interaction is paired between selected devices, this problem might be solved. 
+
+
+## Part D. Wizard the device
+Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
+
+__Include your first attempts at recording the set-up video here.__
+
+[![Watch the video](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/S__236175410.jpg)](https://youtu.be/HuRkpX0RGV8)
+
+Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+
+__Show the follow-up work here___
+[![Watch the video](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/S__236175408.jpg)](https://youtu.be/LOET_eF-Bp8)
+
+## Part E. Costume the device
+
+Only now should you start worrying about what the device should look like. Develop three costumes so that you can use your phone as this device.
+
+Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
+
+__Include sketches of what your devices might look like here.＿＿
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/paper%20prototype.jpg)
+
+__What concerns or opportunitities are influencing the way you've designed the device to look?__
+
+
+My concern is that the lights in the daytime might not be as visible as during nighttime since the sun is much brighter than a screen. This result might be a little bit inconvenient for users to see the signal at a long distance. Also, sometimes the lights might not be responsive due to a weak WiFi signal or are overloaded with too many devices. Thus, I will change the background color to a darker one or add lights to make my device more visible during the daytime.   
+
+
+## Part F. Record
+
+__Take a video of your prototyped interaction.__
+[![Watch the video](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/Screen%20Shot%202022-08-29%20at%209.38.49%20PM.png)](https://youtube.com/shorts/zGPIVeON4Oc?feature=share)
+
+
+\*\***Please indicate anyone you collaborated with on this Lab.**\*\*
+Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+
+
 
 
 
