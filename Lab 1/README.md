@@ -53,18 +53,19 @@ E) [Costume the device](#part-e-costume-the-device)
 
 F) [Record the interaction](#part-f-record)
 
-
+Week2:
 ## Part A. Plan 
-
 
 __Describe your setting, players, activity and goals here__
 
+More and more people suffer from poor eyesight or retina damage due to overusing 3C devices daily at a young age. Overexposed to harmful "Blue Light" and High-Energy Visible (HEV) light is the main reason for these eye-damaged related problems. The interactive device I would like to propose here is a tiny accessory that can detect the amount of environmentally harmful light and send a cellphone reminder to users while they are overexposed to blue light or HEV. 
 
-I decided to use the idea of a visual thermometer, which can inform users of outdoor temperature through light changing instead of asking users to check the text of whether a report is on their cellphones. This design allows users to check the outdoor temperature by looking at our device. The users of this visual thermometer can also customize the indicated colors through their cellphone app.
+For example, the accessory and myself are involved in this interaction. I can wear a detector accessory while using a computer; the accessory will automatically detect the amount of blue light and HEV exposure in the environment. If I overexpose myself to harmful light, I will receive a notification from my cellphone that informs me to wear blue light-blocking glasses or turn on the eye protection mode on my laptop. Another scenario is happening in the living room. The accessory and my family are included in this interaction. More specifically, when watching TV, the accessory can keep us from overusing our eyes and overexposing to harmful light by sending us a cellphone reminder.  
 
 
 __Include pictures of your storyboards here__
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/Scenario1.jpg)
+
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/S1.jpg)
 
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
@@ -142,6 +143,30 @@ __Take a video of your prototyped interaction.__
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
+Week1:  
+## Part A. Plan 
+
+__Describe your setting, players, activity and goals here__
+
+
+I decided to use the idea of a visual thermometer, which can inform users of outdoor temperature through light changing instead of asking users to check the text of whether a report is on their cellphones. This design allows users to check the outdoor temperature by looking at our device. The users of this visual thermometer can also customize the indicated colors through their cellphone app.
+
+__Include pictures of your storyboards here__
+
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/Scenario1.jpg)
+
+Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Staging Interaction, Part 2 
@@ -153,7 +178,17 @@ This describes the second week's work for this lab activity.
 
 You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
 
-\*\***Summarize feedback from your partners here.**\*\*
+__Summarize feedback from your partners here.__
+1. I really love the storyboards - Nice use of color and super clear. I also appreciate the simplicity of the design because it makes it easy to understand. I wonder what the interaction with the phone to set colors would look like and why the default colors range from purple to red instead of blue to red. 
+I'd also love to know more about the costume you designed and why it is a pouch with the device instead of something more integrated. Great job!
+Michael Joseph Kelleher , Aug 30 at 9:48am
+
+2. In this video, the device displayed a color which matched the current temperature after the user asking about the weather.
+This idea is good and I like the feature that users can customize color setting on their own electronic devices. I consider the device can add some sound/vibration features to tell users detailed weather information, so users don’t need to look up the weather on their phone again.
+Tsung-Yin Hsieh , Sep 1 at 6:21am
+
+3. Very nice illustrations, Peggy! The idea is very interesting and it can have many possibilities in delivering weather information. However, please keep in mind that the requirement of this lab is 7 storyboard + 3 sketches + 3 videos. Your documentations are also very thorough! For the next part of this lab, maybe you can dig this idea deeper and consider the following questions: in what shape and what form does it take, how can you prototype it to be more similar to what you want, and how can people interact with it. Overall, nice work!
+
 
 ## Make it your own
 
@@ -162,4 +197,6 @@ Do last week’s assignment again, but this time:
 2) You can use any modality (e.g., vibration, sound) to prototype the behaviors! Again, be creative! Feel free to fork and modify the tinkerbell code! 
 3) We will be grading with an emphasis on creativity. 
 
-\*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+__Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)__
+I put my week2 work before my week1. And I did some changes in the privious work. 
+
