@@ -53,7 +53,7 @@ E) [Costume the device](#part-e-costume-the-device)
 
 F) [Record the interaction](#part-f-record)
 
-Week2:
+# Week2:
 ## Part A. Plan 
 
 __Describe your setting, players, activity and goals here__
@@ -66,6 +66,8 @@ For example, the accessory and myself are involved in this interaction. I can we
 __Include pictures of your storyboards here__
 
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/S1.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/S2.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%201/S3.jpg)
 
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
@@ -73,8 +75,8 @@ Present your ideas to the other people in your breakout room (or in small groups
 __Summarize feedback you got here__
 
 
-1. How to know the rage of the temperature?
-2. People still have to check the weather on their phone to know more infromation. 
+1. How did the device connect to the cellphone? How is the device-device pair process? 
+2. Could the  
 
 ## Part B. Act out the Interaction
 
@@ -143,7 +145,9 @@ __Take a video of your prototyped interaction.__
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
-Week1:  
+
+
+# Week1:  
 ## Part A. Plan 
 
 __Describe your setting, players, activity and goals here__
@@ -157,6 +161,25 @@ __Include pictures of your storyboards here__
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
+__Summarize feedback you got here__
+
+
+1. How to know the rage of the temperature?
+2. People still have to check the weather on their phone to know more infromation. 
+
+## Part B. Act out the Interaction
+
+Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
+
+__Are there things that seemed better on paper than acted out?__
+
+
+The things that seemed better on paper that acted out were that I could find many drawbacks in my previous paperwork and try to improve it. For instance, I initially used my cellphone as the indicator, which was a little bit too heavy to keep on windows. Thus, I would put the weight of the device as a consideration in my following study. 
+
+__Are there new ideas that occur to you or your collaborators that come up from the acting?__
+
+
+The new ideas that occurred to me from the actions are that I can try to make my device connect to all the 3C devices in the space. Furthermore, I can also put other thermo measurment into my design, such as shower water and fridge. 
 
 
 
