@@ -79,56 +79,6 @@ buttonB = digitalio.DigitalInOut(board.D24)
 buttonA.switch_to_input()
 buttonB.switch_to_input()
 
-
-x1 = 0
-x2 = 0
-y1=5
-y2=30
-
-def clockWise():
-    # Draw a black filled box to clear the image.
-    global x1, x2, y1, y2    
-    draw.rectangle((0, 0, width, height), outline=0, fill=0)
-    if x1 < 130 and x2 < 130 and y1 == 5 and y2 == 30:
-        x1 += 10
-        x2 += 10
-    elif y1 < 70 and y2 < 95 and x1 == 130 and x2 == 130:
-        y1 += 5
-        y2 += 5
-    elif y1 == 70 and y2 == 95 and x1 > 0 and x2 > 0:
-        x1 -= 10
-        x2 -= 10
-    elif x1 == 0 and x2 == 0 and y1 <= 70 and y2 <= 95:
-        y1 -= 5
-        y2 -= 5
-
-    #TODO: fill in here. You should be able to look in cli_clock.py and stats.py
-    draw.text((x1,y1), time.strftime("%a %d" ), font=font1, fill="#FFFF9C")
-    draw.text((x2,y2), time.strftime("%H:%M"), font=font2, fill="#AEFF9C")
-
-def counterClockWise():
-    # Draw a black filled box to clear the image.
-    global x1, x2, y1, y2    
-    draw.rectangle((0, 0, width, height), outline=0, fill=0)
-
-    if x1 == 0 and x2 == 0 and y1 < 70 and y2 < 95:
-        y1 += 5
-        y2 += 5
-    elif y1 == 70 and y2 == 95 and x1 < 130 and x2 < 130:
-        x1 += 10
-        x2 += 10
-    elif x1 <= 130 and x2 <= 130 and y1 == 0 and y2 == 25:
-        x1 -= 10
-        x2 -= 10
-    elif y1 <= 70 and y2 <= 95 and x1 == 130 and x2 == 130:
-        y1 -= 5
-        y2 -= 5
-
-
-    #TODO: fill in here. You should be able to look in cli_clock.py and stats.py
-    draw.text((x1,y1), time.strftime("%a %d" ), font=font1, fill="#9CD9FF")
-    draw.text((x2,y2), time.strftime("%H:%M"), font=font2, fill="#FF9CDB")
-
 def sun():
     # Configuration for CS and DC pins (these are PiTFT defaults):
     cs_pin = digitalio.DigitalInOut(board.CE0)
@@ -271,10 +221,6 @@ def moon():
     # Display image.
     disp.image(image)
 
-
-
-
-
 while True:
     if not buttonA.value:
         sun()
@@ -282,11 +228,8 @@ while True:
         moon()
     # Display image.
     disp.image(image, rotation)
-    time.sleep(1000000000)
+    time.sleep(10000)
 Footer
-
-
-
 
 
 
