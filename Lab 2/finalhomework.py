@@ -282,7 +282,7 @@ while True:
         moon()
     # Display image.
     disp.image(image, rotation)
-    time.sleep(0.01)
+    time.sleep(1000000000)
 Footer
 
 
