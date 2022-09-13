@@ -194,7 +194,11 @@ Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
 
-\*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
+\*\*\*** A copy of your code should be in your Lab 2 Github repo.**\*\*\*
+
+My code: https://github.com/Peggypei98/Interactive-Lab-Hub/blob/1517d0be44be41e5fcf289f42431d6af6289cd04/Lab%202/app.py
+
+Sketch: https://drive.google.com/file/d/1BKbeQ87F6r_fv80fuGsdGVye4qRwHasS/view?usp=sharing
 
 After you edit and work on the scripts for Lab 2, the files should be upload back to your own GitHub repo! You can push to your personal github repo by adding the files here, commiting and pushing.
 
