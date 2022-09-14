@@ -219,6 +219,7 @@ https://youtube.com/shorts/CB4XWSxp8Xo
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
+![This is a picture](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/paper.jpg)
 
 
 # Prep for Part 2
