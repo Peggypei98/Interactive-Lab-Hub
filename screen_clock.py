@@ -7,30 +7,6 @@ from time import strftime, sleep
 import adafruit_rgb_display.st7789 as st7789
 
 # Get UV index: https://github.com/bachya/pyopenuv/
-#import asyncio
-#from pyopenuv import Client
-#from pyopenuv.errors import OpenUvError
-#import PIL.Image
-
-
-#async def main():
-        #client = Client(
-            #"<OPENUV_API_KEY>", "<LATITUDE>", "<LONGITUDE>", altitude="<ALTITUDE>"
-        #)
-        #try:
-            # Get current UV info:
-            #print(await client.uv_index())
-
-            # Get forecasted UV info:
-            # print(await client.uv_forecast())
-
-            # Get UV protection window:
-            # print(await client.uv_protection_window())
-        #except OpenUvError as err:
-            #print(f"There was an error: {err}")
-
-
-    #asyncio.run(main())
 
 cs_pin = digitalio.DigitalInOut(board.CE0)
 dc_pin = digitalio.DigitalInOut(board.D25)
@@ -66,7 +42,7 @@ rotation = 90
 draw = ImageDraw.Draw(image)
 
 # Draw a black filled box to clear the image.
-draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
+draw.rectangle((1, 0, width, height), outline=0, fill=(0, 0, 0))
 disp.image(image, rotation)
 # Draw some shapes.
 # First define some constants to allow easy resizing of shapes.
