@@ -123,8 +123,8 @@ To learn more about any individual pin and what it is for go to [pinout.xyz](htt
 
 ### Hardware (you have done this in the prep)
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/stats.jpg)
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/image.jpg)
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/screen_test.jpg)
+
+
 
 From your kit take out the display and the [Raspberry Pi 3](https://cdn-shop.adafruit.com/970x728/3775-07.jpg)
 
@@ -136,6 +136,8 @@ Line up the screen and press it on the headers. The hole in the screen should ma
 </p>
 
 ### Testing your Screen
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/screen_test.jpg)
+
 
 The display uses a communication protocol called [SPI](https://www.circuitbasics.com/basics-of-the-spi-communication-protocol/) to speak with the raspberry pi. We won't go in depth in this course over how SPI works. The port on the bottom of the display connects to the SDA and SCL pins used for the I2C communication protocol which we will cover later. GPIO (General Purpose Input/Output) pins 23 and 24 are connected to the two buttons on the left. GPIO 22 controls the display backlight.
 
@@ -153,6 +155,8 @@ You can type the name of a color then press either of the buttons on the MiniPiT
 You can look in `stats.py` for how to display text on the screen!
 
 #### Displaying an image
+
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/image.jpg)
 
 You can look in `image.py` for an example of how to display an image on the screen. Can you make it switch to another image when you push one of the buttons?
 
@@ -194,7 +198,7 @@ Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www
 
 \*\*\*** A copy of your code should be in your Lab 2 Github repo.**\*\*\*
 
-My code: https://github.com/Peggypei98/Interactive-Lab-Hub/blob/1517d0be44be41e5fcf289f42431d6af6289cd04/Lab%202/app.py
+My code: https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/screen_clock_final.py
 
 Sketch: https://drive.google.com/file/d/1BKbeQ87F6r_fv80fuGsdGVye4qRwHasS/view?usp=sharing
 
@@ -213,10 +217,11 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Make a short video of your modified barebones PiClock
 
 \*\*\***Take a video of your PiClock.**\*\*\*
-https://youtube.com/shorts/CB4XWSxp8Xo
+https://youtu.be/CBKDr6nh3Ks
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
+![This is a picture](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/Clock-design-1.jpg)
 ![This is a picture](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/paper.jpg)
 
 
@@ -226,6 +231,9 @@ https://youtube.com/shorts/CB4XWSxp8Xo
   
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
+
+Peter : You need to add more feature hahaha, where is the clock!!!
+Henry : Making your sun/moon image changing along with the time will be a good idea.
 
 # Lab 2 Part 2
 
