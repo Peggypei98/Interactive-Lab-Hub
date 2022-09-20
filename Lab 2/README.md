@@ -1,8 +1,3 @@
-This is a test.
-This is my second test.
-This is my final test.  Remember me!
-
-
 # Interactive Prototyping: The Clock of Pi
 
 Does it feel like time is moving strangely during this semester?
