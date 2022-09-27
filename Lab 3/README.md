@@ -153,7 +153,11 @@ https://youtu.be/EX9ffuLqr34
 
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
-While acting out the dialogue, it feels like 
+
+While acting out the dialogue, we found that we could add more features in part2. For instance, reporting weather,  planning the best route for users, or even inputting some funny stories related to Roosevelt Island. 
+
+Collaborated with: Tsung-Yin Hsieh (th542@cornell.edu), Yi-Ru Pei (yp329@cornell.edu) The video was filmed by Jonathan Tan(jmt362@cornell.edu)
+First, we brainstorm the main idea and the script together. Second, we acted out the dialogue and asked Jonathan to help us film the video. After finishing the main, Tsung-Yin contributed the code of text to speech and speech; Yi-Ru was responsible for drawing the storyboards. 
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
