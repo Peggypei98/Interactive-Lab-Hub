@@ -59,6 +59,8 @@ You can also play audio files directly with `aplay filename`. Try typing `aplay 
 (This shell file should be saved to your own repo for this lab.)
 My shell file link: https://github.com/Peggypei98/Interactive-Lab-Hub/blob/f035eb08d0bbe0a34e9efa3543166e4755f5a4d8/Lab%203/festival_demo.sh
 
+
+
 Bonus: If this topic is very exciting to you, you can try out this new TTS system we recently learned about: https://github.com/rhasspy/larynx
 
 ### Speech to Text
@@ -105,10 +107,15 @@ From a remote browser on the same network, check to make sure your webserver is 
 Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.) 
 
 \*\***Post your storyboard and diagram here.**\*\*
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4a3b9f9f489c6c7c09b85367b0f30b872d459c44/Lab%203/picture1.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4a3b9f9f489c6c7c09b85367b0f30b872d459c44/Lab%203/picture2.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4a3b9f9f489c6c7c09b85367b0f30b872d459c44/Lab%203/picture3.jpg)
 
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
+We would like to design a Roosevelt Island torist guide, . 
+
 
 ### Acting out the dialogue
 
