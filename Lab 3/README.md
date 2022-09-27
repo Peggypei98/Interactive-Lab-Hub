@@ -1,5 +1,9 @@
 # Chatterboxes
 **NAMES OF COLLABORATORS HERE**
+
+Collaborated with: Tsung-Yin Hsieh (th542@cornell.edu), Yi-Ru Pei (yp329@cornell.edu) The video was filmed by Jonathan Tan(jmt362@cornell.edu)
+First, we brainstorm the main idea and the script together. Second, we acted out the dialogue and asked Jonathan to help us film the video. After finishing the main, Tsung-Yin contributed the code of text to speech and speech; Yi-Ru was responsible for drawing the storyboards. 
+
 [![Watch the video](https://user-images.githubusercontent.com/1128669/135009222-111fe522-e6ba-46ad-b6dc-d1633d21129c.png)](https://www.youtube.com/embed/Q8FWzLMobx0?start=19)
 
 In this lab, we want you to design interaction with a speech-enabled device--something that listens and talks to you. This device can do anything *but* control lights (since we already did that in Lab 1).  First, we want you first to storyboard what you imagine the conversational interaction to be like. Then, you will use wizarding techniques to elicit examples of what people might say, ask, or respond.  We then want you to use the examples collected from at least two other people to inform the redesign of the device.
@@ -156,8 +160,6 @@ https://youtu.be/EX9ffuLqr34
 
 While acting out the dialogue, we found that we could add more features in part2. For instance, reporting weather,  planning the best route for users, or even inputting some funny stories related to Roosevelt Island. 
 
-Collaborated with: Tsung-Yin Hsieh (th542@cornell.edu), Yi-Ru Pei (yp329@cornell.edu) The video was filmed by Jonathan Tan(jmt362@cornell.edu)
-First, we brainstorm the main idea and the script together. Second, we acted out the dialogue and asked Jonathan to help us film the video. After finishing the main, Tsung-Yin contributed the code of text to speech and speech; Yi-Ru was responsible for drawing the storyboards. 
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
