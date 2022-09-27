@@ -83,6 +83,8 @@ Now, look at which camera you have. Do you have the cylinder camera (likely the 
 Then try `./vosk_demo_mic.sh`
 
 \*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
+https://github.com/Peggypei98/Interactive-Lab-Hub/blob/ca2a29a4a2bc9fc4bd71a76e4341e9ff4c3bfa73/Lab%203/vosk.sh
+
 
 ### Serving Pages
 
@@ -114,14 +116,44 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
-We would like to design a Roosevelt Island torist guide, . 
+We want to design a Roosevelt Island tourist guide, Rosy, for tourists to know more about this beautiful place. 
 
+User: Wow, Roosevelt Island seems like an excellent place to visit. I want to ask Rosy to tell me more about this place. Hey, Rosy, how to get to Roosevelt Island?
+
+Rosy: You can get there by Ferry, Subway, Tramway, or Self-drive. Which one do you prefer?
+
+User: I prefer to get there by Tramway.
+
+Rosy: Tramway is a good choice. Remember to bring a Metro card with you. Let me tell you some good places to visit on this island. What do you want to do?
+
+User: I would like to walk around and grab some food. 
+
+Rosy: Frankin D. Roosevelt Four Freedoms Park is on the southern tip of the island, its name inspired by his famous 1941 speech. The park was also the last work of Louis I. Kahn, a renowned 20th-century architect...Oh, it seems like this option is not that appealing to you. How about the Blackwell Island Lighthouse?
+
+User: Wow, It sounds great!! Show me more!!
+
+Rosy: The Blackwell Island Lighthouse is on the other end of the island; at the most northern stretch is a 50-foot-tall lighthouse built by prisoners in 1872. It's now on the National Register of Historic Places and is surrounded by a park with fantastic panoramic views. And you can visit the Cornell Tech campus as well. 
+
+User: Great! How about some good place to eat?
+
+Rosy: Granny Annies's is an Irish bar and kitchen, and Bread and Butter is a good brunch place. 
+
+User: Great!! Thanks for your suggestion!
+
+Rosy: My pleasure. Please rate this service from one to ten. 
+
+User: Eight.
+
+Rosy: Thanks for your rating! Hope you have a wonderful trip! 
 
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
+https://youtu.be/EX9ffuLqr34
+
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
+While acting out the dialogue, it feels like 
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
