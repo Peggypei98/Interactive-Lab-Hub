@@ -1,7 +1,9 @@
 # Chatterboxes
 **NAMES OF COLLABORATORS HERE**
 
-Collaborated with: Tsung-Yin Hsieh (th542@cornell.edu), Yi-Ru Pei (yp329@cornell.edu) The video was filmed by Jonathan Tan(jmt362@cornell.edu)
+Collaborated with: Tsung-Yin Hsieh (th542@cornell.edu)
+The video was filmed by Jonathan Tan(jmt362@cornell.edu)
+
 First, we brainstorm the main idea and the script together. Second, we acted out the dialogue and asked Jonathan to help us film the video. After finishing the main, Tsung-Yin contributed the code of text to speech and speech; Yi-Ru was responsible for drawing the storyboards. 
 
 [![Watch the video](https://user-images.githubusercontent.com/1128669/135009222-111fe522-e6ba-46ad-b6dc-d1633d21129c.png)](https://www.youtube.com/embed/Q8FWzLMobx0?start=19)
@@ -185,26 +187,86 @@ The system should:
 
 *Document how the system works*
 
+Collaborated with: Tsung-Yin Hsieh (th542@cornell.edu)
+In the part 2, we also brainstorm the additional features for our system and the script together. After finishing the brainstorming, Tsung-Yin contributed the code of text to speech and the face detection using webcam; Yi-Ru was responsible for drawing the new storyboards. And then, we asked two participants to interact with our system. Finally, we discussed what we learned from the two tests and how can we improve this system.
+
+Additional Dialogue: Our system provides weather information for the tourists who want to go to Roosevelt Island
+
+User: Hey, Rosy! Is today a good time to go to Roosevelt Island?
+
+Rosy: The weather is 75 degrees and it is a sunny day. It’s a great time to visit?
+
+User: How to get to the Roosevelt Island?
+
+Rosy: You can get there by Ferry, Subway, Tramway, or Self-drive. Which one do you prefer?
+
+User: I prefer to get there by Ferry.
+
+Rosy: Ferry is a good choice. The view on the ferry is really good. Let me tell you some good places to visit on this island. What do you want to do?
+
+User: I would like to walk around and grab some food.
+
+Rosy: Cornell Tech is a great place with Tata Innovation Center and Bloomberg Center. It owns diverse environment of academics and practitioners who excel at imagining, researching and building digitally-enabled products and services to directly address societal and commercial needs.
+
+User: Wow, It sounds great!! I would like to study there in the future!!
+
+User: How about some good place to eat?
+
+Rosy: You can grab some food and drinks at the cafe.
+
+User: Great! Thanks for the suggestion!
+
+Rosy: My pleasure. Please rate this service from one to ten.
+
+User: Nine.
+
+Rosy: Thanks for your rating! Hope you have a wonderful trip!
+
+Our redesign stiryboards
+
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4a3b9f9f489c6c7c09b85367b0f30b872d459c44/Lab%203/picture 4.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4a3b9f9f489c6c7c09b85367b0f30b872d459c44/Lab%203/picture 5.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4a3b9f9f489c6c7c09b85367b0f30b872d459c44/Lab%203/picture 6.jpg)
+
 *Include videos or screencaptures of both the system and the controller.*
+Face Detection with OpenCV through the webcam
+
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4a3b9f9f489c6c7c09b85367b0f30b872d459c44/Lab%203/picture 7.jpg)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
+![Link to our first video](https://youtu.be/Rdltl_4AmTs)
+![Link to our second video](https://youtu.be/8ghjDCK-Rms)
 
 Answer the following:
 
+Our participants:
+
+Jonathan Tan (jmt362@cornell.edu)
+
+Sylvia Ding (sd569@cornell.edu)
+
+
+
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
+The interaction between our Rosy and users worked well. The weather reporting feature and emotion detection feature made our users feel good while using this service.
+
+Yet, our system did not provide features that can arrange the whole visiting plan for users. Also, our Rosy did not offer an optional choice for users while they were asking about some places to go.
 
 ### What worked well about the controller and what didn't?
+We had a hard time when switching between the emotion detection interface and VS code, and this made us really hard to combine them together. The rest of our design works pretty well.
 
-\*\**your answer here*\*\*
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
+The first lesson we can take away from the WoZ interaction for designing a more autonomous version of the system is that try our best to improve the experience by making the process more interesting and engaging. For instance, adding more funny stories into our tourist guide scripts. By doing so, we can make the whole experience more fun.
 
-\*\**your answer here*\*\*
-
+The second lesson we learn is that different users have different needs, some people prefer visiting a memorial park, and some people might like to walk around the campus. Thus, if we could add some content script for Rosy to read it out for users after they selecting it would be more user-friendly.
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
+We could use this system to track all the Roosevelt Island tourists’ choices and emotions. In this way, we can analyze whether some attraction is more popular or more suitable for different people.
+
+The other sensing modalities we may capture are the body language and heart rate of a user. These two sensing modalities can help us determine the user's emotions better.
+
+
 
