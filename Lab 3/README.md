@@ -238,8 +238,8 @@ Face Detection with OpenCV through the webcam
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
 
-[![Watch the video]](https://youtu.be/Rdltl_4AmTs)
-[![Watch the video]](https://youtu.be/8ghjDCK-Rms)
+[![Our first test video]](https://youtu.be/Rdltl_4AmTs)
+[![Our second test video]](https://youtu.be/8ghjDCK-Rms)
 
 
 ![Link to our code](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/e2a692dbb08cc2715c063d2f0f56de77298c65f3/Lab%203/test_words.py)
