@@ -226,7 +226,9 @@ Rosy: Thanks for your rating! Hope you have a wonderful trip!
 Our redesign stiryboards
 
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4ee55c84d7fc081d149eb20a9c4ad4d94f6ee030/Lab%203/picture4.jpg)
+
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4ee55c84d7fc081d149eb20a9c4ad4d94f6ee030/Lab%203/picture5.jpg)
+
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4ee55c84d7fc081d149eb20a9c4ad4d94f6ee030/Lab%203/picture6.jpg)
 
 *Include videos or screencaptures of both the system and the controller.*
@@ -239,11 +241,14 @@ Face Detection with OpenCV through the webcam
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
 
 [![Our first test video]](https://youtu.be/Rdltl_4AmTs)
+
 [![Our second test video]](https://youtu.be/8ghjDCK-Rms)
 
 
 ![Link to our code](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/e2a692dbb08cc2715c063d2f0f56de77298c65f3/Lab%203/test_words.py)
+
 ![Link to our shell code](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/e2a692dbb08cc2715c063d2f0f56de77298c65f3/Lab%203/tts_lab3_1.sh)
+
 ![Link to our shell code](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/e2a692dbb08cc2715c063d2f0f56de77298c65f3/Lab%203/tts_lab3_2.sh)
 
 
