@@ -188,6 +188,7 @@ The system should:
 *Document how the system works*
 
 Collaborated with: Tsung-Yin Hsieh (th542@cornell.edu)
+
 In the part 2, we also brainstorm the additional features for our system and the script together. After finishing the brainstorming, Tsung-Yin contributed the code of text to speech and the face detection using webcam; Yi-Ru was responsible for drawing the new storyboards. And then, we asked two participants to interact with our system. Finally, we discussed what we learned from the two tests and how can we improve this system.
 
 Additional Dialogue: Our system provides weather information for the tourists who want to go to Roosevelt Island
@@ -224,19 +225,21 @@ Rosy: Thanks for your rating! Hope you have a wonderful trip!
 
 Our redesign stiryboards
 
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4a3b9f9f489c6c7c09b85367b0f30b872d459c44/Lab%203/picture4.jpg)
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4a3b9f9f489c6c7c09b85367b0f30b872d459c44/Lab%203/picture5.jpg)
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4a3b9f9f489c6c7c09b85367b0f30b872d459c44/Lab%203/picture6.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4ee55c84d7fc081d149eb20a9c4ad4d94f6ee030/Lab%203/picture4.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4ee55c84d7fc081d149eb20a9c4ad4d94f6ee030/Lab%203/picture5.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4ee55c84d7fc081d149eb20a9c4ad4d94f6ee030/Lab%203/picture6.jpg)
 
 *Include videos or screencaptures of both the system and the controller.*
 Face Detection with OpenCV through the webcam
 
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4a3b9f9f489c6c7c09b85367b0f30b872d459c44/Lab%203/picture7.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4ee55c84d7fc081d149eb20a9c4ad4d94f6ee030/Lab%203/picture7.jpg)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
-![Link to our first video](https://youtu.be/Rdltl_4AmTs)
-![Link to our second video](https://youtu.be/8ghjDCK-Rms)
+
+[![Watch the video]](https://youtu.be/Rdltl_4AmTs)
+[![Watch the video]](https://youtu.be/8ghjDCK-Rms)
+
 
 ![Link to our code](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/e2a692dbb08cc2715c063d2f0f56de77298c65f3/Lab%203/test_words.py)
 ![Link to our shell code](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/e2a692dbb08cc2715c063d2f0f56de77298c65f3/Lab%203/tts_lab3_1.sh)
