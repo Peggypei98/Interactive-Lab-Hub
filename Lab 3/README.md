@@ -230,6 +230,7 @@ Our redesign stiryboards
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4ee55c84d7fc081d149eb20a9c4ad4d94f6ee030/Lab%203/picture6.jpg)
 
 *Include videos or screencaptures of both the system and the controller.*
+
 Face Detection with OpenCV through the webcam
 
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4ee55c84d7fc081d149eb20a9c4ad4d94f6ee030/Lab%203/picture7.jpg)
