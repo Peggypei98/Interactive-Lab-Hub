@@ -211,6 +211,7 @@ A design to adjust the position of smart phone holders
 
 The proximity sensor we tested in Part B was a short-distance one, when a pet tried to get into a house, they might be trapped in the door. 
 
+
 (2) Da Vinci Code
 
 The number is ranging from 1 to 10 in the capacitive sensor, it would be too easy to get the answer.
@@ -219,6 +220,7 @@ The number is ranging from 1 to 10 in the capacitive sensor, it would be too eas
 (3) Work-Out booster
 
 Sometimes the sensor is not that accurate. 
+
 
 (4) Volume Adjustment 
 
@@ -232,6 +234,9 @@ Same issue in (1). The sensor is a short-distance one, which means there would b
 
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
+
+A prototype of our work-out counter
+
 ![This is an image](ttps://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p6.jpg)
 
 
@@ -275,17 +280,85 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
-(1)
+(1) Number Counter
+
+A capacitive sensor display screen shows the total amount of the number. 
+![This is an image](ttps://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p7.jpg)
+
+
+
+(2) Remote Volume Controller
+
+An application to adjust volume with a screen display the dynamic status of the volume. 
+![This is an image](ttps://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p8.jpg)
+
+
+(3) Safe distance detector
+
+The device will detect whether the surrounding vehicles are too close to itself. If the distance is lower than a safe distacne, the color of the display will turn from green to red and notice the driver.
+![This is an image](ttps://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p9.jpg)
+
+
+(4) Brightness sensor for eye care
+
+THe device will detect the intensity of surrounding light. If the light isn't bright enough, the display screen will ask the user to turn on the light.
+![This is an image](ttps://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p10.jpg)
+
+
+(5) Work-Out booster
+
+A design helps counting your work-out amount, especiially for push-up and sit-up. The display screen will show the accumulated push-up and sit-up counts for users. 
+![This is an image](ttps://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p11.jpg)
+
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+(1) Number Counter
+
+If the users press the button too fast, the sensor might has a hard time getting the value. 
+
+
+(2) Remote Volume Controller
+
+So far so good!
+
+
+(3) Safe distance detector
+
+The given sensor is a short-distance one, which means it might not sense correctly. 
+
+
+(4) Brightness sensor for eye care
+
+The brightness is very subjective to individuals, It was very hard to defined.
+
+
+(5) Work-Out booster
+
+We have tested the gesture sensor, yet the result was not that precise. 
+
+
+
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
+
+We pick the display design of number guessing as our prototype.
+![This is an image](ttps://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p11.jpg)
+
 
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
-Build a cardbord prototype of your design.
+This design can be used in many place. If it is for playing games, we believe the size should be larger to engage participants. In contrast, if it is for password, we consider the size should be small, so the screen would not be able to be seen by other people.
+
+Cardbord prototype of our design.
+![This is an image](ttps://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p11.jpg)
+
+![This is an image](ttps://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p11.jpg)
+
+
 
 **\*\*\*Document your rough prototype.\*\*\***
+
+This design can be simply used as a number guessing game or a door lock in daily life. The idea of this design is we use capacitive sensor to let users set their password. And next time they rotate the Rotary Encoder to the number so they can open the lock. While rotating the Rotary Encoder, the display screen will show whether it is correct.
 
 
 LAB PART 2
