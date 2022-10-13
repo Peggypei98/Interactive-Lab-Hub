@@ -1,6 +1,8 @@
 # Ph-UI!!!
 
 **NAMES OF COLLABORATORS HERE**
+Collaboratad with 
+Tsung-Yin Hsieh th542
 
 
 For lab this week, we focus both on sensing, to bring in new modes of input into your devices, as well as prototyping the physical look and feel of the device. You will think about the physical form the device needs to perform the sensing as well as present the display or feedback about what was sensed. 
@@ -176,9 +178,36 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
 
+(1) Door Sensor for Pets
+A design for pets to get back home by their own. 
+
+(2) Da Vinci Code
+Guess a sepcific number!
+
+(3) Work-Out booster
+A design helps counting your work-out amount, especiially for push-up and sit-up.
+
+(4) Volume Adjustment 
+An application to adjust volume
+
+(5) A remote control for smart phone holders
+A design to adjust the position of smart phone holders
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+(1) Door Sensor for Pets
+The proximity sensor we tested in Part B was a short-distance one, when a pet tried to get into the house, they might be trapped in the door. 
+
+(2) Da Vinci Code
+
+(3) Work-Out booster
+
+(4) Volume Adjustment 
+
+(5) A remote control for smart phone holders
+
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
+![This is an image](/home/pi/Interactive-Lab-Hub/Lab 4/p6.jpg)
 
 
 ### Part D
