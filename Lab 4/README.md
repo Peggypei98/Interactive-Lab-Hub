@@ -1,7 +1,9 @@
 # Ph-UI!!!
 
 **NAMES OF COLLABORATORS HERE**
+
 Collaboratad with 
+
 Tsung-Yin Hsieh th542
 
 
@@ -179,35 +181,58 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
 
 (1) Door Sensor for Pets
+
 A design for pets to get back home by their own. 
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p1.jpg)
 
 (2) Da Vinci Code
+
 Guess a sepcific number!
+![This is an image](ttps://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p2.jpg)
 
 (3) Work-Out booster
+
 A design helps counting your work-out amount, especiially for push-up and sit-up.
+![This is an image](ttps://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p3.jpg)
 
 (4) Volume Adjustment 
+
 An application to adjust volume
+![This is an image](ttps://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p4.jpg)
 
 (5) A remote control for smart phone holders
+![This is an image](ttps://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p5.jpg)
+
 A design to adjust the position of smart phone holders
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+
 (1) Door Sensor for Pets
-The proximity sensor we tested in Part B was a short-distance one, when a pet tried to get into the house, they might be trapped in the door. 
+
+The proximity sensor we tested in Part B was a short-distance one, when a pet tried to get into a house, they might be trapped in the door. 
 
 (2) Da Vinci Code
 
+The number is ranging from 1 to 10 in the capacitive sensor, it would be too easy to get the answer.
+
+
 (3) Work-Out booster
+
+Sometimes the sensor is not that accurate. 
 
 (4) Volume Adjustment 
 
+A lack of joyful interaction between the design and users. We could add some features such as changing lights or showing different pictures on the display scrren.
+
+
 (5) A remote control for smart phone holders
+
+Same issue in (1). The sensor is a short-distance one, which means there would be a great chance that the sensor can't detect the movement.
+
 
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
-![This is an image](/home/pi/Interactive-Lab-Hub/Lab 4/p6.jpg)
+![This is an image](ttps://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p6.jpg)
 
 
 ### Part D
@@ -249,6 +274,8 @@ Here is an example:
 Think about how you want to present the information about what your sensor is sensing! Design a paper display for your project that communicates the state of the Pi and a sensor. Ideally you should design it so that you can slide the Pi out to work on the circuit or programming, and then slide it back in and reattach a few wires to be back in operation.
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
+
+(1)
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
