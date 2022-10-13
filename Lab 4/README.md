@@ -283,14 +283,14 @@ Think about how you want to present the information about what your sensor is se
 (1) Number Counter
 
 A capacitive sensor display screen shows the total amount of the number. 
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p7.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/9ea19ee0e2a93ddddabfccd73444da4778d85266/Lab%204/p7.jpg)
 
 
 
 (2) Remote Volume Controller
 
 An application to adjust volume with a screen display the dynamic status of the volume. 
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p8.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/9ea19ee0e2a93ddddabfccd73444da4778d85266/Lab%204/p8.jpg)
 
 
 (3) Safe distance detector
