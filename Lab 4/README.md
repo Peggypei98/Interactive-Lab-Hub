@@ -361,6 +361,7 @@ Cardbord prototype of our design.
 This design can be simply used as a number guessing game or a door lock in daily life. The idea of this design is we use capacitive sensor to let users set their password. And next time they rotate the Rotary Encoder to the number so they can open the lock. While rotating the Rotary Encoder, the display screen will show whether it is correct.
 
 
+
 LAB PART 2
 
 ### Part 2
