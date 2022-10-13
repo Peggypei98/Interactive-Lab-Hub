@@ -296,19 +296,19 @@ An application to adjust volume with a screen display the dynamic status of the 
 (3) Safe distance detector
 
 The device will detect whether the surrounding vehicles are too close to itself. If the distance is lower than a safe distacne, the color of the display will turn from green to red and notice the driver.
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p9.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/9ea19ee0e2a93ddddabfccd73444da4778d85266/Lab%204/p9.jpg)
 
 
 (4) Brightness sensor for eye care
 
 THe device will detect the intensity of surrounding light. If the light isn't bright enough, the display screen will ask the user to turn on the light.
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p10.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/9ea19ee0e2a93ddddabfccd73444da4778d85266/Lab%204/p10.jpg)
 
 
 (5) Work-Out booster
 
 A design helps counting your work-out amount, especiially for push-up and sit-up. The display screen will show the accumulated push-up and sit-up counts for users. 
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p11.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/9ea19ee0e2a93ddddabfccd73444da4778d85266/Lab%204/p11.jpg)
 
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
@@ -342,7 +342,7 @@ We have tested the gesture sensor, yet the result was not that precise.
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
 We pick the display design of number guessing as our prototype.
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p12.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/9ea19ee0e2a93ddddabfccd73444da4778d85266/Lab%204/p12.jpg)
 
 
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
@@ -350,9 +350,9 @@ We pick the display design of number guessing as our prototype.
 This design can be used in many place. If it is for playing games, we believe the size should be larger to engage participants. In contrast, if it is for password, we consider the size should be small, so the screen would not be able to be seen by other people.
 
 Cardbord prototype of our design.
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p13.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/9ea19ee0e2a93ddddabfccd73444da4778d85266/Lab%204/p13.jpg)
 
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/545c262d13c6eedcfcce575292ffac8d87470aa9/Lab%204/p14.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/9ea19ee0e2a93ddddabfccd73444da4778d85266/Lab%204/p14.jpg)
 
 
 
