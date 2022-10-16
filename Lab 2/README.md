@@ -225,13 +225,18 @@ https://youtube.com/shorts/CB4XWSxp8Xo
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
 My privious design:
+
 In this design, I would like to display the sun rise and sun set time and the weather on the clock. Moreover, I would like to add an icon on the right to indicate day time and night time as well. 
 ![This is a picture](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/paper.jpg)
 
+
+
 My improved design:
+
 In the second version of my design, I decided to add seven different cheer-up quotes for my users. And lower the size of the moon and the sun icon. Furthermore, my previous design was lack of a user-device interation part. Thus, I added a button pressing feature in this design. While pressing the upper button, it would show the sun rise time, when pressing the lower button, it would show the sun set time. 
 
 ![This is a picture](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/Clock-design-1.jpg)
+
 
 
 # Prep for Part 2
@@ -241,9 +246,21 @@ In the second version of my design, I decided to add seven different cheer-up qu
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
 
-Peter : You need to add more feature hahaha, where is the clock!!!
-Henry : Making your sun/moon image changing along with the time will be a good idea.
-Alan : I suggusted that you can put more interaction design in your clock, such as button pressing, lights indicating. 
+Peter : 
+
+You need to add more feature hahaha, where is the clock!!!
+
+
+
+Henry : 
+
+Making your sun/moon image changing along with the time will be a good idea.
+
+
+
+Alan :
+
+ I suggusted that you can put more interaction design in your clock, such as button pressing, lights indicating. 
 
 # Lab 2 Part 2
 
@@ -256,23 +273,25 @@ As always, make sure you document contributions and ideas from others explicitly
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
 
 
-Upgraded version of my clock:
+Upgraded version of my clock (Code):
 https://github.com/Peggypei98/Interactive-Lab-Hub/blob/50ae802a021032c1c1b8510b4a213c2bb703d35e/Lab%202/screen_clock_final.py
 
 
-Description of my design:
+__Description of my design:__
 
 
-Basic display:
+- Basic display:
 
 Date MM/DD/YYYY WEEK
 
 Time HH:MM:SS
 
-The color will change every 6 hours
+
+- The color will change every 6 hours
 
 
-Quotes will in different time range:
+
+- Quotes will in different time range:
 
 0am-6am: Sweet Dream!
 
@@ -289,7 +308,9 @@ Quotes will in different time range:
 9pm-11pm: Sleep well and relax!
 
 
-A short demo video of my upgraded clock:
+
+
+__A short demo video of my upgraded clock:__
 
 https://youtu.be/CBKDr6nh3Ks
 
