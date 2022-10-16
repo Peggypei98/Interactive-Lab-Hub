@@ -122,6 +122,9 @@ The Raspberry Pi 3 has a variety of interfacing options. When you plug the pi in
 
 To learn more about any individual pin and what it is for go to [pinout.xyz](https://pinout.xyz/pinout/3v3_power) and click on the pin. Some terms may be unfamiliar but we will go over the relevant ones as they come up.
 
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/50ae802a021032c1c1b8510b4a213c2bb703d35e/Lab%202/p3.jpg)
+
+
 ### Hardware (you have done this in the prep)
 
 From your kit take out the display and the [Raspberry Pi 3](https://cdn-shop.adafruit.com/970x728/3775-07.jpg)
@@ -134,8 +137,6 @@ Line up the screen and press it on the headers. The hole in the screen should ma
 </p>
 
 ### Testing your Screen
-![This is an image]()
-
 
 The display uses a communication protocol called [SPI](https://www.circuitbasics.com/basics-of-the-spi-communication-protocol/) to speak with the raspberry pi. We won't go in depth in this course over how SPI works. The port on the bottom of the display connects to the SDA and SCL pins used for the I2C communication protocol which we will cover later. GPIO (General Purpose Input/Output) pins 23 and 24 are connected to the two buttons on the left. GPIO 22 controls the display backlight.
 
@@ -151,10 +152,14 @@ You can type the name of a color then press either of the buttons on the MiniPiT
 
 #### Displaying Info with Texts
 You can look in `stats.py` for how to display text on the screen!
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/50ae802a021032c1c1b8510b4a213c2bb703d35e/Lab%202/p2.jpg)
+
 
 #### Displaying an image
 
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/image.jpg)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/50ae802a021032c1c1b8510b4a213c2bb703d35e/Lab%202/p1.jpg)
+
+
 
 You can look in `image.py` for an example of how to display an image on the screen. Can you make it switch to another image when you push one of the buttons?
 
@@ -196,9 +201,7 @@ Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www
 
 \*\*\*** A copy of your code should be in your Lab 2 Github repo.**\*\*\*
 
-My code: https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/screen_clock_final.py
-
-Sketch: https://drive.google.com/file/d/1BKbeQ87F6r_fv80fuGsdGVye4qRwHasS/view?usp=sharing
+My code: https://github.com/Peggypei98/Interactive-Lab-Hub/blob/50ae802a021032c1c1b8510b4a213c2bb703d35e/Lab%202/app.py
 
 After you edit and work on the scripts for Lab 2, the files should be upload back to your own GitHub repo! You can push to your personal github repo by adding the files here, commiting and pushing.
 
@@ -215,12 +218,20 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Make a short video of your modified barebones PiClock
 
 \*\*\***Take a video of your PiClock.**\*\*\*
-https://youtu.be/CBKDr6nh3Ks
+https://youtube.com/shorts/CB4XWSxp8Xo
+
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
-![This is a picture](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/Clock-design-1.jpg)
+
+My privious design:
+In this design, I would like to display the sun rise and sun set time and the weather on the clock. Moreover, I would like to add an icon on the right to indicate day time and night time as well. 
 ![This is a picture](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/paper.jpg)
+
+My improved design:
+In the second version of my design, I decided to add seven different cheer-up quotes for my users. And lower the size of the moon and the sun icon. Furthermore, my previous design was lack of a user-device interation part. Thus, I added a button pressing feature in this design. While pressing the upper button, it would show the sun rise time, when pressing the lower button, it would show the sun set time. 
+
+![This is a picture](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/Clock-design-1.jpg)
 
 
 # Prep for Part 2
@@ -232,6 +243,7 @@ https://youtu.be/CBKDr6nh3Ks
 
 Peter : You need to add more feature hahaha, where is the clock!!!
 Henry : Making your sun/moon image changing along with the time will be a good idea.
+Alan : I suggusted that you can put more interaction design in your clock, such as button pressing, lights indicating. 
 
 # Lab 2 Part 2
 
@@ -242,5 +254,45 @@ Modify the code from last week's lab to make a new visual interface for your new
 As always, make sure you document contributions and ideas from others explicitly in your writeup.
 
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
+
+
+Upgraded version of my clock:
+https://github.com/Peggypei98/Interactive-Lab-Hub/blob/50ae802a021032c1c1b8510b4a213c2bb703d35e/Lab%202/screen_clock_final.py
+
+
+Description of my design:
+
+
+Basic display:
+
+Date MM/DD/YYYY WEEK
+
+Time HH:MM:SS
+
+The color will change every 6 hours
+
+
+Quotes will in different time range:
+
+0am-6am: Sweet Dream!
+
+6am-10am: Good Morning!
+
+10am-1pm: Today is a good day!
+
+1pm-3pm: Good Luck!
+
+3pm-6pm: Nice Job!
+
+6pm-9pm: Get some rest!
+
+9pm-11pm: Sleep well and relax!
+
+
+A short demo video of my upgraded clock:
+
+https://youtu.be/CBKDr6nh3Ks
+
+
 
 
