@@ -123,9 +123,6 @@ The Raspberry Pi 3 has a variety of interfacing options. When you plug the pi in
 To learn more about any individual pin and what it is for go to [pinout.xyz](https://pinout.xyz/pinout/3v3_power) and click on the pin. Some terms may be unfamiliar but we will go over the relevant ones as they come up.
 
 ### Hardware (you have done this in the prep)
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/stats.jpg)
-
-
 
 From your kit take out the display and the [Raspberry Pi 3](https://cdn-shop.adafruit.com/970x728/3775-07.jpg)
 
@@ -137,7 +134,7 @@ Line up the screen and press it on the headers. The hole in the screen should ma
 </p>
 
 ### Testing your Screen
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/Fall2022/Lab%202/screen_test.jpg)
+![This is an image]()
 
 
 The display uses a communication protocol called [SPI](https://www.circuitbasics.com/basics-of-the-spi-communication-protocol/) to speak with the raspberry pi. We won't go in depth in this course over how SPI works. The port on the bottom of the display connects to the SDA and SCL pins used for the I2C communication protocol which we will cover later. GPIO (General Purpose Input/Output) pins 23 and 24 are connected to the two buttons on the left. GPIO 22 controls the display backlight.
