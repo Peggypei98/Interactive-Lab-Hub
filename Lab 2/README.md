@@ -280,32 +280,32 @@ https://github.com/Peggypei98/Interactive-Lab-Hub/blob/50ae802a021032c1c1b8510b4
 __Description of my design:__
 
 
-- Basic display:
+Basic display:
 
-Date MM/DD/YYYY WEEK
+- Date MM/DD/YYYY WEEK
 
-Time HH:MM:SS
-
-
-- The color will change every 6 hours
+- Time HH:MM:SS
 
 
+The color will change every 6 hours
 
-- Quotes will in different time range:
 
-0am-6am: Sweet Dream!
 
-6am-10am: Good Morning!
+Quotes will in different time range:
 
-10am-1pm: Today is a good day!
+- 0am-6am: Sweet Dream!
 
-1pm-3pm: Good Luck!
+- 6am-10am: Good Morning!
 
-3pm-6pm: Nice Job!
+- 10am-1pm: Today is a good day!
 
-6pm-9pm: Get some rest!
+- 1pm-3pm: Good Luck!
 
-9pm-11pm: Sleep well and relax!
+- 3pm-6pm: Nice Job!
+
+- 6pm-9pm: Get some rest!
+
+- 9pm-11pm: Sleep well and relax!
 
 
 
