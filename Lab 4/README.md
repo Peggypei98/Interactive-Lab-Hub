@@ -402,6 +402,10 @@ We encourage you to try using these controls, **while** paying particular attent
 
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 
+* __Feedbacks:__
+- Kaya: If the display screen can show the input result while guessing the password would be better. Overall, it's a good design. 
+- Kenny: I love the design, it's very interesting. I would like to have one in my dorm and play the Da Vinci Code game with my roommates. 
+
 * __"Looks like": shows how the device should look, feel, sit, weigh, etc.__
   - We would like to design a cool interactive device that can act as a door lock and a number guessing game in daily life. 
   - We named our design "Da Vinci Code". 
@@ -449,6 +453,10 @@ We use cardboard to make a place holding our Raspberry pi in the back.
 * __"Acts like": shows how a person would interact with the device__
 
 Here is a demo video that shows how our device acts like:
-[![IMAGE ALT TEXT HERE](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/89f5c6c7d6a6dd653efc7c5ff510efc2c9dde09e/Lab%204/pp5.JPG)](https://youtu.be/olkPlY-2KlY)
+[![IMAGE ALT TEXT HERE](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/1f5254f523a1bfaa92be18163309e064a0c5bb98/Lab%204/pp6.JPG)](https://youtu.be/olkPlY-2KlY)
 
-* __"Acts like": shows how a person would interact with the device__
+Our code:
+https://github.com/Peggypei98/Interactive-Lab-Hub/blob/1f5254f523a1bfaa92be18163309e064a0c5bb98/Lab%204/lab4.py
+
+
+
