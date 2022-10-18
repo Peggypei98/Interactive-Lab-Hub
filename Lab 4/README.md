@@ -404,15 +404,29 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
   - We would like to design a cool interactive device that can act as a door lock and a number guessing game in daily life. 
   - We named our design "Da Vinci Code". 
+  - The look of our design: it looks like a funny box which would be placed at the door or in the living room, its size is 38 cm, 28 cm, 28 cm, weight 315g.  
 
 Here is a sketch of our design:
-
 ![This is an Image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d0634110fa04677b94ab137678758c6fdfe379a5/Lab%204/pp1.jpg)
  
 
+Here are the actul looks of our final design:
+
+Front view:
+![This is an Image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/89f5c6c7d6a6dd653efc7c5ff510efc2c9dde09e/Lab%204/pp3.JPG)
+
+Top view:
+![This is an Image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/89f5c6c7d6a6dd653efc7c5ff510efc2c9dde09e/Lab%204/pp5.JPG)
+
 
 * "Works like": shows what the device can do
+  - Our device can work as a door lock in our daily life
+
+  - It can also be a number guessing game device
+
+
 * "Acts like": shows how a person would interact with the device
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+Here is a demo video that shows how our device acts like:
+[![IMAGE ALT TEXT HERE](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/89f5c6c7d6a6dd653efc7c5ff510efc2c9dde09e/Lab%204/pp5.JPG)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
