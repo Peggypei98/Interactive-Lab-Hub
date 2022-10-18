@@ -403,7 +403,15 @@ We encourage you to try using these controls, **while** paying particular attent
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
 
-HIHI
+Here is a sketch of our design:
+
+![This is an Image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d0634110fa04677b94ab137678758c6fdfe379a5/Lab%204/pp1.jpg)
+  - We would like to design a cool interactive device that can act as a door lock and a number guessing game in daily life. 
+  - We named our design "Da Vinci Code". 
+  
+
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
