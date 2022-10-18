@@ -441,7 +441,7 @@ We use cardboard to make a place holding our Raspberry pi in the back.
     1. One gamer set up a specific number and press the rotate encode to confirm her/his setting
     2. Other gamers can rotate the rotate encoder to input their answers
     3. If they input the correct guessing, the display screen will show "Correct password + (a cute bouncing ball)"
-    4. If they input the wrong gussing, the display screen will show "Wrong password + (wihtout a ball)"
+    4. If they input the wrong gussing, the display screen will show "Wrong password + (without a ball)"
     5. Each gamers has one chance in every round of the game. 
 
 
