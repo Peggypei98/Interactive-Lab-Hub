@@ -453,7 +453,7 @@ We use cardboard to make a place holding our Raspberry pi in the back.
 * __"Acts like": shows how a person would interact with the device__
 
 Here is a demo video that shows how our device acts like:
-[![IMAGE ALT TEXT HERE](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/1f5254f523a1bfaa92be18163309e064a0c5bb98/Lab%204/pp6.JPG)](https://youtu.be/olkPlY-2KlY)
+[![IMAGE ALT TEXT HERE](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/1f5254f523a1bfaa92be18163309e064a0c5bb98/Lab%204/pp6.JPG)](https://youtu.be/T4JPxskL7u0)
 
 Our code:
 https://github.com/Peggypei98/Interactive-Lab-Hub/blob/1f5254f523a1bfaa92be18163309e064a0c5bb98/Lab%204/lab4.py
