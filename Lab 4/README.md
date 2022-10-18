@@ -402,6 +402,8 @@ We encourage you to try using these controls, **while** paying particular attent
 
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
+
+HIHI
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
 
