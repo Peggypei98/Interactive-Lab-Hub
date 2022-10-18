@@ -411,7 +411,7 @@ Here is a sketch of our design:
 ![This is an Image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d0634110fa04677b94ab137678758c6fdfe379a5/Lab%204/pp1.jpg)
  
 
-Here are the actul looks of our final design:
+Here are the actual looks of our final design:
 
 Front view:
 
@@ -441,7 +441,7 @@ We use cardboard to make a place holding our Raspberry pi in the back.
     1. One gamer set up a specific number and press the rotate encode to confirm her/his setting
     2. Other gamers can rotate the rotate encoder to input their answers
     3. If they input the correct guessing, the display screen will show "Correct password + (a cute bouncing ball)"
-    4. If they input the wrong gussing, the display screen will show "Wrong password + (without a ball)"
+    4. If they input the wrong guessing, the display screen will show "Wrong password + (without a ball)"
     5. Each gamers has one chance in every round of the game. 
 
 
@@ -449,5 +449,6 @@ We use cardboard to make a place holding our Raspberry pi in the back.
 * __"Acts like": shows how a person would interact with the device__
 
 Here is a demo video that shows how our device acts like:
-[![IMAGE ALT TEXT HERE](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/89f5c6c7d6a6dd653efc7c5ff510efc2c9dde09e/Lab%204/pp5.JPG)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/89f5c6c7d6a6dd653efc7c5ff510efc2c9dde09e/Lab%204/pp5.JPG)](https://youtu.be/olkPlY-2KlY)
 
+* __"Acts like": shows how a person would interact with the device__
