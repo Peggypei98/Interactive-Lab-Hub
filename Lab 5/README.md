@@ -104,12 +104,12 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 
 
 1. Contours-detection
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d4fadd0a4ca29cd55da79cbe2f3fe960df814521/Lab%205/p1.png)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d4fadd0a4ca29cd55da79cbe2f3fe960df814521/Lab%205/p2.png)
 In this OpenCV example, we considered that this application might work on recognizing people in a specific area. For instance, we can use this application when we have to limit the number of participants in a space.  
 
 
 2. Face-detection
-![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d4fadd0a4ca29cd55da79cbe2f3fe960df814521/Lab%205/p2.png)
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d4fadd0a4ca29cd55da79cbe2f3fe960df814521/Lab%205/p1.png)
 In the face-detection example, we came up with an idea that we can use this application to detect facial expressions on customers' faces to improve satisfaction in a virtual video customer service. 
 
 
@@ -256,6 +256,11 @@ This might take a while to get fully installed. After installation, connect your
 * Fill out the ``Contextual Interaction Design Tool`` sheet.[Found here.](ThinkingThroughContextandInteraction.png)
 
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
+
+We would like to use OpenCV to count the number of people in a room or a selected space. 
+
+Our prototype sketch:
+
 
 ### Part C
 ### Test the interaction prototype
