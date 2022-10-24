@@ -102,6 +102,28 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 
 **\*\*\*Try each of the following four examples in the `openCV-examples`, include screenshots of your use and write about one design for each example that might work based on the individual benefits to each algorithm.\*\*\***
 
+
+1. Contours-detection
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d4fadd0a4ca29cd55da79cbe2f3fe960df814521/Lab%205/p1.png)
+In this OpenCV example, we considered that this application might work on recognizing people in a specific area. For instance, we can use this application when we have to limit the number of participants in a space.  
+
+
+2. Face-detection
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d4fadd0a4ca29cd55da79cbe2f3fe960df814521/Lab%205/p2.png)
+In the face-detection example, we came up with an idea that we can use this application to detect facial expressions on customers' faces to improve satisfaction in a virtual video customer service. 
+
+
+3. Flow-detection
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d4fadd0a4ca29cd55da79cbe2f3fe960df814521/Lab%205/p3.png)
+In the Flow-detection part, we would like to apply this feature to track the speeding vehicles on campus. 
+
+
+4. Object-detection
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d4fadd0a4ca29cd55da79cbe2f3fe960df814521/Lab%205/p4.png)
+In the object-detection session, we believe people can use this application in their home security system. By using this application, we can distinguish kids and pets from strangers and detect weird strangers more precisely. 
+
+
+
 #### Filtering, FFTs, and Time Series data. 
 Additional filtering and analysis can be done on the sensors that were provided in the kit. For example, running a Fast Fourier Transform over the IMU or Microphone data stream could create a simple activity classifier between walking, running, and standing.
 
@@ -214,6 +236,7 @@ This might take a while to get fully installed. After installation, connect your
 (**Optionally**: You can train your own model, too. First, visit [TeachableMachines](https://teachablemachine.withgoogle.com/train), select Image Project and Standard model. Second, use the webcam on your computer to train a model. For each class try to have over 50 samples, and consider adding a background class where you have nothing in view so the model is trained to know that this is the background. Then create classes based on what you want the model to classify. Lastly, preview and iterate, or export your model as a 'Tensorflow' model, and select 'Keras'. You will find an '.h5' file and a 'labels.txt' file. These are included in this labs 'teachable_machines' folder, to make the PPE model you used earlier. You can make your own folder or replace these to make your own classifier.)
 
 ~~**\*\*\*Whether you make your own model or not, include screenshots of your use of Teachable Machines, and write how you might use this to create your own classifier. Include what different affordances this method brings, compared to the OpenCV or MediaPipe options.\*\*\***~~
+
 
 
 *Don't forget to run ```deactivate``` to end the Teachable Machines demo, and to reactivate with ```source tmachine/bin/activate``` when you want to use it again.*
