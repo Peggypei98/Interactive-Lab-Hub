@@ -162,6 +162,11 @@ For technical references:
 
 **\*\*\*Include links to your code here, and put the code for these in your repo--they will come in handy later.\*\*\***
 
+
+My code: https://github.com/Peggypei98/Interactive-Lab-Hub/blob/87cf724b81b4bb05f8e73105e9f26b4372b37245/Lab%205/ExampleAudioFFT.py
+
+
+
 ### (Optional Reading) Introducing Additional Concepts
 The following sections ([MediaPipe](#mediapipe) and [Teachable Machines](#teachable-machines)) are included for your own optional learning. **The associated scripts will not work on Fall 2022's Pi Image, so you can move onto part B.** However, you are welcome to try it on your personal computer. If this functionality is desirable for your lab or final project, we can help you get a different image running the last OS and version of python to make the following code work.
 
