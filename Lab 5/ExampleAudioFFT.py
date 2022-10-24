@@ -72,12 +72,16 @@ def main():
                     vold = np.array(VolumeHistory)[:VolumeHistory.maxlen-HalfLength].mean()
                     volumechange =vnew-vold
                     volumneSlow = np.array(VolumeHistory).mean()
+
+                
                 
                 ## Computes the Frequency Foruier analysis on the Audio Signal.
                 N = buffer.shape[0] 
                 window = hann(N) 
                 amplitudes = np.abs(rfft(buffer*window))[25:] #Contains the volume for the different frequency bin.
                 frequencies = (rfftfreq(N, 1/SAMPLING_RATE)[:N//2])[25:] #Contains the Hz frequency values. for the different frequency bin.
+                
+                
                 '''
                 Combining  the `amplitudes` and `frequencies` varialbes allows you to understand how loud a certain frequency is.
 
@@ -102,6 +106,10 @@ def main():
                 print("Volume Change:",volumechange)
                 
                 nextTimeStamp = UPDATE_INTERVAL+time.time() # See `UPDATE_INTERVAL` above
+                if LoudestFrequency >= 400:
+                    print("The volumn is too loud.")
+                if LoudestFrequency <= 400 and LoudestFrequency >= 200:
+                    print("The volumn is good.")
 
 
 if __name__ == '__main__':
