@@ -257,9 +257,16 @@ This might take a while to get fully installed. After installation, connect your
 
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
 
-We would like to use OpenCV to count the number of people in a room or a selected space. 
+We would like to use OpenCV object-detection to count the number of people in a room or a selected space. 
 
 Our prototype sketch:
+https://github.com/Peggypei98/Interactive-Lab-Hub/blob/266c149df4fe0d83d8a26d669a905b0f9612a6a6/Lab%205/p6.jpg
+
+Features:
+1. Set up a number as the maximum people in the space. 
+2. The display screen would show how many people are there in the space. 
+3. When the people in the space reach the limit number, our design would make some sounds to remind people in the room. 
+
 
 
 ### Part C
