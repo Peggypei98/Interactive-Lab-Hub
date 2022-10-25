@@ -324,14 +324,6 @@ Now flight test your interactive prototype and **note down your observations**:
 Now that you have experimented with one or more of these sense-making systems **characterize their behavior**.
 During the lecture, we mentioned questions to help characterize a material:
 
-- What can you use X for?
-- What is a good environment for X?
-- What is a bad environment for X?
-- When will X break?
-- When it breaks how will X break?
-- What are other properties/behaviors of X?
-- How does X feel?
-
 
 - What can you use X for?
 
