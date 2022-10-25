@@ -2,6 +2,9 @@
 
 **NAMES OF COLLABORATORS HERE**
 
+Collaborated with:
+Henry Wu (hw574), Alan Hsieh (amh425), Tsung-Yin Hsieh (th542), Yi-Ru Pei (yp329)
+
 
 For lab this week, we focus on creating interactive systems that can detect and respond to events or stimuli in the environment of the Pi, like the Boat Detector we mentioned in lecture. 
 Your **observant device** could, for example, count items, find objects, recognize an event or continuously monitor a room.
@@ -265,7 +268,9 @@ https://github.com/Peggypei98/Interactive-Lab-Hub/blob/266c149df4fe0d83d8a26d669
 Features:
 1. Set up a number as the maximum people in the space. 
 2. The display screen would show how many people are there in the space. 
-3. When the people in the space reach the limit number, our design would make some sounds to remind people in the room. 
+3. When the people in the space reach the limit number, our design would make some sounds to remind the people in the room. 
+
+
 
 
 
