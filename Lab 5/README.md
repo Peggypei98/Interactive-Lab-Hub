@@ -367,13 +367,13 @@ I think it's a great device that can be used in every place. It can help people 
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
 
-Here is a screenshot of our design:
-![This an image]()
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-https://youtu.be/lS9Zr6WNqlw
+Here is a screenshot of our design while detecting a perosn walk into the room, the display screen would show the connt of people in the room:
+![This an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4dd94654fe14119f4f7c845c24625944c878184b/Lab%205/p7.png
+)
 
 
+Here is a demo video of our design:
+[![IMAGE ALT TEXT HERE](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4dd94654fe14119f4f7c845c24625944c878184b/Lab%205/p7.png)](https://youtu.be/lS9Zr6WNqlw)
 
 
 
