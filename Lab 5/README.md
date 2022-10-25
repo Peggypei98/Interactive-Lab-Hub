@@ -263,7 +263,8 @@ This might take a while to get fully installed. After installation, connect your
 We would like to use OpenCV object-detection to count the number of people in a room or a selected space. 
 
 Our prototype sketch:
-https://github.com/Peggypei98/Interactive-Lab-Hub/blob/266c149df4fe0d83d8a26d669a905b0f9612a6a6/Lab%205/p6.jpg
+![THis is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/266c149df4fe0d83d8a26d669a905b0f9612a6a6/Lab%205/p6.jpg)
+
 
 Features:
 1. Set up a number as the maximum people in the space. 
@@ -281,39 +282,38 @@ Now flight test your interactive prototype and **note down your observations**:
 
 1. When does it what it is supposed to do?
 
-It supposed to detect and count people when people get into a room.
+    - It supposed to detect and count people when people get into a room.
 
 2. When does it fail?
 
-When there are too many people.
+    - When there are too many people.
 
 3. When it fails, why does it fail?
 
-The device might not correctly detect and count the people if there are too many people overlap in the screen.
+    - The device might not correctly detect and count the people if there are too many people overlap in the screen.
 
 4. Based on the behavior you have seen, what other scenarios could cause problems?
 
-If there is not enough light, the detection might be also failed.
-People may not notice or care about the alert of the system. When the camera cannot cover all space in a room, people outside of the camera cannot be detected.
+    - If there is not enough light, the detection might be also failed. People may not notice or care about the alert of the system. When the camera cannot cover all space in a room, people outside of the camera cannot be detected.
 
 
 ***Think about someone using the system. Describe how you think this will work.***
 
 1. Are they aware of the uncertainties in the system?
 
-They might be aware of the uncertainties when the counting number isn’t stable.
+    - They might be aware of the uncertainties when the counting number isn’t stable.
 
 2. How bad would they be impacted by a miss classification?
 
-The device might get delay and miss classification which will cause them feeling the systems isn’t precise.
+    - The device might get delay and miss classification which will cause them feeling the systems isn’t precise.
 
 3. How could change your interactive system to address this?
 
-Use better camera or other sensors to get more accurate detection.
+    - Use better camera or other sensors to get more accurate detection.
 
 4. Are there optimizations you can try to do on your sense-making algorithm?
 
-We can train a more efficient and accurate model for detecting people under different environment.
+    - We can train a more efficient and accurate model for detecting people under different environment.
 
 
 
@@ -333,36 +333,36 @@ During the lecture, we mentioned questions to help characterize a material:
 - How does X feel?
 
 
-What can you use X for?
+- What can you use X for?
 
-This system can be used for controling the population in a limited space. This can be used to control the number of people  when people are having a party. Through this system it can easy manage and identify who is in the room and how many people are in the room.
+    - This system can be used for controling the population in a limited space. This can be used to control the number of people  when people are having a party. Through this system it can easy manage and identify who is in the room and how many people are in the room.
 
 
-What is a good environment for X?
+- What is a good environment for X?
 
-An environment with simple background and bright light conditions will be a good environment for our system.
+    - An environment with simple background and bright light conditions will be a good environment for our system.
 
 
 - What is a bad environment for X?
 
-A bad environment where the system is in a dark environment with crowded people then it will be bad environment for our system.
+    - A bad environment where the system is in a dark environment with crowded people then it will be bad environment for our system.
 
 - When will X break?
 
-1. In any of the bad environments above happened the system may break.
-2. When the system is subjected to human damage because the system has installed the lens.
+    - In any of the bad environments above happened the system may break.
+    - When the system is subjected to human damage because the system has installed the lens.
 
 - When it breaks how will X break?
 
-The g system will break either by detecting to many people at the same time.
+    - The g system will break either by detecting to many people at the same time.
 
 - What are other properties/behaviors of X?
 
-The system will play alerted sound to remind people in the space when the people in the space exceed the limit.
+    - The system will play alerted sound to remind people in the space when the people in the space exceed the limit.
 
 - How does X feel?
 
-I think it's a great device that can be used in every place. It can help people to detect the population limit in the room.
+    - I think it's a great device that can be used in every place. It can help people to detect the population limit in the room.
 
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
