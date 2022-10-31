@@ -380,6 +380,7 @@ Here is a demo video of our design:
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
+
 We saw bad news, the Itaewon Halloween Disaster, on the CNN website. And we would like to apply our design in preventing this disaster happen again. 
 
 Link to the news we saw: https://www.cnn.com/2022/10/30/asia/seoul-itaewon-halloween-crush-explainer-intl-hnk
@@ -390,9 +391,9 @@ This week, we would like to improve our previous design in the following parts:
 
 We would like to use different colors to differentiate population control stages in space. 
 
-- Green: 
-- Orange:
-- Red:
+- Green: Normal 
+- Orange: Close to the limited population number
+- Red: Reach the limited population number
 
 
 (2) Add the speech warning feature in our design
