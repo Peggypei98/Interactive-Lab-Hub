@@ -400,7 +400,7 @@ We would like to use different colors to differentiate population control stages
 
 
 Here is a improved demo video of our design:
-[![IMAGE ALT TEXT HERE](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4dd94654fe14119f4f7c845c24625944c878184b/Lab%205/p7.png)](https://youtu.be/lS9Zr6WNqlw)
+[![IMAGE ALT TEXT HERE](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4dd94654fe14119f4f7c845c24625944c878184b/Lab%205/p7.png)](https://youtu.be/nM3TL98gMoY)
 
 
 
