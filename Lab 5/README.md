@@ -380,3 +380,30 @@ Here is a demo video of our design:
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
+We saw bad news, the Itaewon Halloween Disaster, on the CNN website. And we would like to apply our design in preventing this disaster happen again. 
+
+Link to the news we saw: https://www.cnn.com/2022/10/30/asia/seoul-itaewon-halloween-crush-explainer-intl-hnk
+
+This week, we would like to improve our previous design in the following parts:
+
+(1)   Level our warning system
+
+We would like to use different colors to differentiate population control stages in space. 
+
+- Green: 
+- Orange:
+- Red:
+
+
+(2) Add the speech warning feature in our design
+
+
+Here is a improved demo video of our design:
+[![IMAGE ALT TEXT HERE](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/4dd94654fe14119f4f7c845c24625944c878184b/Lab%205/p7.png)](https://youtu.be/lS9Zr6WNqlw)
+
+
+
+
+
+
+
