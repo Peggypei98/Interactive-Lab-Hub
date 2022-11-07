@@ -141,8 +141,22 @@ Here is a screenshot of the MQTT Explorer Screen:
 
 Here is a picture of how I connected the device:
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/cfe30c7d2af80a3253e27447c53e5428e989d465/Lab%206/Lab6pp0.JPG)
+
+
 **\*\*\*Pick another part in your kit and try to implement the data streaming with it.\*\*\***
 
+Here is a screenshot of the MQTT Explorer Screen:
+
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/cfe30c7d2af80a3253e27447c53e5428e989d465/Lab%206/Lab6pp1.png)
+
+
+Here is a picture of how I connected the device:
+
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/cfe30c7d2af80a3253e27447c53e5428e989d465/Lab%206/Lab6pp2.jpg)
+
+Here is a link to the code: 
+
+https://github.com/Peggypei98/Interactive-Lab-Hub/blob/cfe30c7d2af80a3253e27447c53e5428e989d465/Lab%206/testwithdistance.py
 
 
 
@@ -176,6 +190,15 @@ You may ask "but what if I missed class?" Am I not admitted into the collective 
 Of course not! You can go to [https://one-true-colornet.glitch.me/](https://one-true-colornet.glitch.me/) and become one with the ColorNet on the inter-webs. Glitch is a great tool for prototyping sites, interfaces and web-apps that's worth taking some time to get familiar with if you have a chance. Its not super pertinent for the class but good to know either way. 
 
 **\*\*\*Can you set up the script that can read the color anyone else publish and display it on your screen?\*\*\***
+
+Yes, we can. 
+
+The original setting is white
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/3f6370758d4e9f385e8c2b7d6a65df69567c1b3c/Lab%206/Lab6pp3.JPG)
+
+I tried to press the senser with my finger, and it showed the color iof my finger tip.
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/3f6370758d4e9f385e8c2b7d6a65df69567c1b3c/Lab%206/Lab6pp4.JPG)
+
 
 
 ### Part E
