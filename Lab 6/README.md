@@ -96,6 +96,18 @@ Once connected, you should be able to see all the messages under the IDD topic. 
 
 **\*\*\*Consider how you might use this messaging system on interactive devices, and draw/write down 5 ideas here.\*\*\***
 
+**5 ideas:**
+
+1. Covid
+
+2. Plant
+
+3. Hospital 
+
+4. Traffic
+
+5. Brightness 
+
 ### Part C
 ### Streaming a Sensor
 
