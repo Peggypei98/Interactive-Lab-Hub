@@ -101,7 +101,6 @@ Once connected, you should be able to see all the messages under the IDD topic. 
 1. Covid
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/afda3994a21a70093b53512195db37c9b5620aca/Lab%206/L6p1.jpg)
 
-
 2. Plant
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/afda3994a21a70093b53512195db37c9b5620aca/Lab%206/L6p2.jpg)
 
