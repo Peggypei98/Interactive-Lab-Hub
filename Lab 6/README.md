@@ -234,9 +234,20 @@ Find at least one class (more are okay) partner, and design a distributed applic
 
 **\*\*\*1. Explain your design\*\*\*** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
 
+In this lab, we developed an MQTT status updator that can interface with multiple existing hospital devices. These devices, send messages across the hospital network, indicating their current status. For example, when the hematology analyzer in the blood department is complete with one task, it can update across the network indicating it is ready. In these examples, we can expidite hospital patient management processes, by providing instantanious situational awareness for multiple departments. Members of our group with hospital backgrounds indicated this manual communication via phone, beepers, etc as a particular painpoint for hospital staff.
+
+
+
 **\*\*\*2. Diagram the architecture of the system.\*\*\*** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
+ ![this is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/ec02996c230a541fa5ab85e9317f2f3c40a98fa5/Lab%206/Lab6pp6.jpg)
+
 
 **\*\*\*3. Build a working prototype of the system.\*\*\*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
+
+See video below for prototype in action. As far as the user interface goes, we are still developing a centralized visual indicator for equipment and status updates. This is quite diffcult to implement as we are unsure of the complex workings of hospital requirements. However, we do understand the need for a dasboard and customization options which can put hospital members in quick communication with one another.
+
+Currently the interface being demonstrated shows the raw interface with the MQTT explorer as a working prototype.
+
 
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
 
