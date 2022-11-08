@@ -98,20 +98,42 @@ Once connected, you should be able to see all the messages under the IDD topic. 
 
 **5 ideas:**
 
-1. Covid
+1. Covid 19 cintact sensing application
+
+We design a covid 19 application to detect whether people have been exposed to covid infected people and use IoT to prevent cluster infection.
+
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/afda3994a21a70093b53512195db37c9b5620aca/Lab%206/L6p1.jpg)
 
-2. Plant
+
+2. The Soil Mositure sensor for plant
+
+Use IoT sensors to measure water humidity to know if plants need to be watered
+
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/afda3994a21a70093b53512195db37c9b5620aca/Lab%206/L6p2.jpg)
 
-3. Hospital 
+
+3. Share progress of different department in a Hospital
+
+We use captive sensors to detect and inform patients which Department they are going to work in.
+
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/afda3994a21a70093b53512195db37c9b5620aca/Lab%206/L6p3.jpg)
 
-4. Traffic
+
+4. Traffic flow sensor 
+
+We design the Traffic flow sensor by using the MQTT explorer to detect the traffic jam situation. To, adjust the traffic light to control the traffic flow in a specific line.
+
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/afda3994a21a70093b53512195db37c9b5620aca/Lab%206/L6p4.jpg)
 
-5. Brightness 
+
+5. Brightness adjustment 
+
+We use sensors to automatically detect the brightness of the room and automatically adjust the brightness of the room at different times of the day.
+
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/afda3994a21a70093b53512195db37c9b5620aca/Lab%206/L6p5.jpg)
+
+
+
 
 ### Part C
 ### Streaming a Sensor
@@ -193,11 +215,15 @@ Of course not! You can go to [https://one-true-colornet.glitch.me/](https://one-
 
 Yes, we can. 
 
-The original setting is white
+The original setting is in color white.
+
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/3f6370758d4e9f385e8c2b7d6a65df69567c1b3c/Lab%206/Lab6pp3.JPG)
 
 I tried to press the senser with my finger, and it showed the color iof my finger tip.
+
 ![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/3f6370758d4e9f385e8c2b7d6a65df69567c1b3c/Lab%206/Lab6pp4.JPG)
+
+Here is a link to my tested video: https://youtube.com/shorts/P1hw8UB-ZOM
 
 
 
