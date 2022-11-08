@@ -248,8 +248,21 @@ See video below for prototype in action. As far as the user interface goes, we a
 
 Currently the interface being demonstrated shows the raw interface with the MQTT explorer as a working prototype.
 
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/fc1edd10102ad63f9e010230dd4d23d86480930c/Lab%206/Lab6pp5.png)
+
+In this proposed dashboard we are utilizing Django, and PostgreSQL to manage the MQTT message database and deliver a web format dashboard.
+
+In the above illustration, we show the status using red/green nogo/go indication, with queue represented by the blue squares below. We also show that this is a personalized chart for the equipment Dr. Wang is most interested in viewing, and that she may logout and switch users if she chooses.
 
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
+
+Here is two links to our demo video: 
+
+1. Acted out: https://www.youtube.com/watch?v=c4wwQdWHIvI
+2. Zoom in the screen: https://youtu.be/S4VDKMAEFG8
+
+A link to our code: https://github.com/Peggypei98/Interactive-Lab-Hub/blob/fc1edd10102ad63f9e010230dd4d23d86480930c/Lab%206/distributed_twizzlers_sender.py
+
 
 <!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
 
