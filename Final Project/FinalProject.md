@@ -48,7 +48,14 @@ Paper model of Roosevelt island/Cornell Tech with smart features (weather, trans
 Reducing features of the plant robot (to be named)
 
 
+Here is a picture of our idea:
 
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/90378050cb031bca80d2c21a05b3356bf6af2cb2/Final%20Project/p1.jpg)
+
+
+Here is what we are going to present in the class:
+
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/90378050cb031bca80d2c21a05b3356bf6af2cb2/Final%20Project/p2.png)
 
 
 
