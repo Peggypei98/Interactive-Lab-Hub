@@ -1,5 +1,57 @@
 # Final Project
 
+
+## Team
+
+Jonathan Tan - jmt362
+
+Yi-Ru Pei - yp329
+
+
+## Project Plan
+
+### Big Idea
+
+A robot which converts your indoor potted plant into a house pet.
+Features such as water monitoring, sunlight chasing and additional pet-like features.
+
+### Timeline
+
+Sketch Designs 11/20
+
+Begin wizarding/prototyping 11/25
+
+Complete 3D printing of assembly 11/30
+
+Debugging sofware 12/3
+
+Preparing demo video 12/5
+
+### Parts Needed
+
+- 2 Servo Motors (one for each wheel)
+- Solar Panal or Light detector
+- Adafruit Mini Display (Plant's face)
+- 2 Tires or geared wheels (3D Printed)
+- Raspberry Pi
+- Battery
+
+### Risks/Contingencies
+
+Different Plants prefer different amount of sunlight and water, it might be hard to personalize. 
+
+
+### Fall-back Plan
+
+Paper model of Roosevelt island/Cornell Tech with smart features (weather, transportation, night lights etc.)
+
+Reducing features of the plant robot (to be named)
+
+
+
+
+
+
 Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
 
 Project plan - November 15
