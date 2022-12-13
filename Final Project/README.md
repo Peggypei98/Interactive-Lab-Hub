@@ -12,8 +12,7 @@ Yi-Ru Pei - yp329
 
 ### Big Idea
 
-A robot which converts your indoor potted plant into a house pet.
-Features such as water monitoring, sunlight chasing and additional pet-like features.
+The "bud" is a hybrid plant-robot that turns your indoor potted plant into a house pet. It has features such as water monitoring and sunlight chasing, as well as additional pet-like characteristics. With "bud," your plant becomes a 100% companion.
 
 ### Timeline
 
