@@ -24,7 +24,8 @@ Complete 3D printing of assembly 11/30
 
 Debugging sofware 12/3
 
-Preparing demo video 12/5
+Preparing demo videos 12/5
+
 
 ### Parts Needed
 
@@ -69,6 +70,8 @@ Functional check-off - November 29 & December 1
 Final Project Presentations - December 6
 
 Write-up and documentation due - December 12
+
+I think so
 
 ## Objective
 
